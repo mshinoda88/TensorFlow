@@ -1,1 +1,1 @@
-# TensorFlow
+# TensorFlow, Keras のライブラリの検証
